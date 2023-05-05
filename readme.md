@@ -9,7 +9,6 @@ Desafio do Stage 05, na trilha Explorer da Rocketseat.
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades">Temas abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#funcionalidades">Acesse aqui</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -49,5 +48,3 @@ O projeto se trata de uma aplicação onde obtemos uma mensagem ao clicar no bis
 - Obter novas mensagens de modo aleatório.
 - Repetir fluxo.
 - Projeto responsivo.
-
-## Acesse aqui: https://edsonterciotti.github.io/BiscoitoDaSorte/
