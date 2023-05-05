@@ -7,19 +7,21 @@ Desafio do Stage 05, na trilha Explorer da Rocketseat.
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#funcionalidades">Temas abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#funcionalidades">Acesse aqui</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-## Tecnologias
+## Tecnologias:
 
 - HTML
 - CSS
 - Media Queries
 - JavaScript
 
-## Projeto
+## Projeto:
 
 O projeto se trata de uma aplicação onde obtemos uma mensagem ao clicar no biscoito da sorte, essa mensagem é gerada de forma aleatória, sendo possível a partir de um click ou enter. Após obter uma mensagem podemos repetir a ação sempre que desejarmos.
 
@@ -31,7 +33,7 @@ O projeto se trata de uma aplicação onde obtemos uma mensagem ao clicar no bis
 
 <br>
 
-Temas abordados:
+## Temas abordados:
 
 - Estrutura de dados HTML
 - Animações com CSS
@@ -41,9 +43,11 @@ Temas abordados:
 - Funções *callback*
 - Arrays
 
-## Funcionalidades
+## Funcionalidades:
 
 - Navegação por teclado.
 - Obter novas mensagens de modo aleatório.
 - Repetir fluxo.
 - Projeto responsivo.
+
+## Acesse aqui: https://edsonterciotti.github.io/BiscoitoDaSorte/
